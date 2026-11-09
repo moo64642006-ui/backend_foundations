@@ -24,3 +24,8 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+def welcome_message():
+    return "Welcome to my Python Backend Project!"
+
+print(welcome_message())    
