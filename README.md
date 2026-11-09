@@ -26,3 +26,7 @@ A Python project demonstrating backend foundations.
 ## Run Project
 
 python -m app.main
+
+## Author
+
+Mohamed Samy
